@@ -15,7 +15,7 @@ permissions:
 jobs:
   # run package test on pull request event
   package:
-    if: ${{ github.event_name == 'pull_request' }}
+    if: ${{ github.event_name == 'pull_request' && !github.event.pull_request.draft }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
