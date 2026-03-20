@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: packagecontrol/st-schema-reviewer-action@f0ed8819bd9058dfa9921e4a061a6a1b643339a2
+      - uses: packagecontrol/st-schema-reviewer-action@b0634964a486096628fbe9da5cbc0f6f91773c6a
         with:
           test_repositories: true
