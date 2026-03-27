@@ -749,6 +749,16 @@
 			]
 		},
 		{
+			"name": "terminus-persistence",
+			"details": "https://github.com/gabriel-lody/terminus-persistence",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "termX",
 			"homepage": "https://malinowski.be/termX",
 			"details": "https://github.com/afterdesign/termX",
