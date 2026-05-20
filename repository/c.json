@@ -3834,21 +3834,21 @@
 			]
 		},
 		{
-			"name": "Copy Python Path",
-			"details": "https://github.com/pokidovea/copy_python_path",
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "Copy Python Import",
 			"details": "https://github.com/odiroot/copy_python_import",
 			"releases": [
 				{
 					"sublime_text": ">=4000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Copy Python Path",
+			"details": "https://github.com/pokidovea/copy_python_path",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
