@@ -4320,6 +4320,15 @@
 			]
 		},
 		{
+			"details": "https://github.com/leoshome/StyleTokenHighlighter",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "StylishHaskell",
 			"details": "https://github.com/hairyhum/SublimeStylishHaskell",
 			"releases": [
