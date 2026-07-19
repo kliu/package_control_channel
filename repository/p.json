@@ -94,8 +94,8 @@
 		{
 			"name": "PackageDev",
 			"details": "https://github.com/SublimeText/PackageDev",
-			"author": ["FichteFoll"],
-			"labels": ["language syntax"],
+			"author": "FichteFoll",
+			"labels": ["language syntax", "package development", "snippets"],
 			"releases": [
 				{
 					"sublime_text": "<3154",
@@ -108,6 +108,10 @@
 				{
 					"sublime_text": ">=4094",
 					"tags": true
+				},
+				{
+					"sublime_text": ">=4135",
+					"tags": "st-4135/"
 				}
 			]
 		},
